@@ -1,0 +1,33 @@
+/* Back button */
+h2 a {
+    color: #1a73e8;
+    font-size: 22px;
+}
+
+
+/* Title */
+h1 {
+    font-size: 66px;
+    color: #662fd3;
+    margin: 20px 0;
+}
+
+p {
+    width: 80%;
+    margin: 10px auto;
+    font-size: 20px;
+    line-height: 1.7;
+    background: #e18383;
+    padding: 20px;
+    border-left: 5px solid #d32f2f;
+    border-radius: 16 px;
+}
+
+/* Images */
+img {
+    width: 180px;
+    margin: 20px;
+    border-radius: 15px;
+    border: 2px solid #ccc;
+    display: inline-block;
+}
